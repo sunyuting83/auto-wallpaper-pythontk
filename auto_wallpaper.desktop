@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Auto Wallpaper
+GenericName=Wallpaper
+Comment=Wallpaper
+Exec=sudo /home/sun/python/wallpaper/autoWallpaper
+Terminal=false
+MimeType=text/plain;
+Icon=/home/sun/python/wallpaper/Icon/girl_128.png
+Categories=TextEditor;Development;
+StartupNotify=true
+Actions=Window;Document;
+
+Name[zh_CN]=美女壁纸
